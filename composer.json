@@ -1,0 +1,22 @@
+{
+    "name": "dekts/payments",
+    "description": "The Laravel 5.8 Package for Indian Payment Gateways. Currently supported gateways: CCAvenue, PayUMoney, EBS, CitrusPay, InstaMojo, Mocker.",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Devat Karetha",
+            "email": "devat73@gmail.com"
+        }
+    ],
+    "autoload": {
+      "psr-4": {
+        "Payments\\": "src/"
+      }
+    },
+    "minimum-stability": "dev",
+    "require": {
+        "php": ">=5.4.0",
+        "illuminate/support": "~5.0|~6.0",
+        "guzzlehttp/guzzle": "~5.0|~6.0"
+    }
+}
