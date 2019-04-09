@@ -1,6 +1,6 @@
 # Dekts Pay
 
-The Laravel 5.8 Package for Indian Payment Gateways. Currently supported gateway: CCAvenue, PayUMoney, EBS, CitrusPay ,ZapakPay (Mobikwik), Mocker
+The Laravel 5.8 Package for Indian Payment Gateways. Currently supported gateway: CCAvenue, PayUMoney, EBS, CitrusPay, ZapakPay (Mobikwik), Mocker
 
 Installation
 Step 1: Install package using composer.json add some code
