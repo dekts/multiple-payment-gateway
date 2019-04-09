@@ -8,8 +8,8 @@ Step 1: Install package using composer.json add some code
 	
 	"repository":[
 	    {
-		type:"vcs",
-		url:"https://devat@bitbucket.org/dekts/dekts.git"
+		type:"git",
+		url:"https://github.com/dekts/multiple-payment-gateway.git"
 	    }
 	]
     "require": {
